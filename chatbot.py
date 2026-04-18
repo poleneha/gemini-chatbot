@@ -5,7 +5,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # ── CONFIG ─────────────────────────────────────────────
-API_KEY = "AIzaSyAn0F9qITfbM6CNSqKctlIx0ycVSZ2itEs"   # <-- Paste your Gemini API key here
+API_KEY = "YOUR_API_KEY_HERE"   # <-- Paste your Gemini API key here
 BOT_NAME = "NehaBot"
 MODEL   = "gemini-1.5-flash"    # Free tier model
 # ───────────────────────────────────────────────────────
